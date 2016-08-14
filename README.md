@@ -10,3 +10,6 @@ This repository contains the repositories I liked on github.
 
 ### August 13, 2016
 - [reactive-react/react-most: Declarative Monadic Reactive State Container for React](https://github.com/reactive-react/react-most) 
+
+### August 14, 2016
+- [arielf/weight-loss: Machine Learning meets ketosis: how to effectively lose weight](https://github.com/arielf/weight-loss) 
