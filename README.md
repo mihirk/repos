@@ -13,3 +13,6 @@ This repository contains the repositories I liked on github.
 
 ### August 14, 2016
 - [arielf/weight-loss: Machine Learning meets ketosis: how to effectively lose weight](https://github.com/arielf/weight-loss) 
+
+### August 18, 2016
+- [jondot/awesome-react-native: An "awesome" type curated list of React Native components, news, tools, and learning material](https://github.com/jondot/awesome-react-native) 
