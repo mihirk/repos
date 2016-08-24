@@ -19,3 +19,6 @@ This repository contains the repositories I liked on github.
 
 ### August 22, 2016
 - [Kickball/awesome-selfhosted: This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.](https://github.com/Kickball/awesome-selfhosted) 
+
+### August 24, 2016
+- [My Top Eight Must-Listen Developer Podcasts](https://dev.to/ben/my-eight-must-listen-podcasts) 
