@@ -24,3 +24,6 @@ This repository contains the repositories I liked on github.
 - [My Top Eight Must-Listen Developer Podcasts](https://dev.to/ben/my-eight-must-listen-podcasts) 
 - [types.markdown](https://gist.github.com/garybernhardt/122909856b570c5c457a6cd674795a9c) 
 - [reactotron/reactotron: A CLI and OS X app for inspecting your React JS and React Native apps.](https://github.com/reactotron/reactotron) 
+
+### August 29, 2016
+- [dschep/ntfy: A utility for sending notifications, on demand and when commands finish.](https://github.com/dschep/ntfy) 
