@@ -28,3 +28,6 @@ This repository contains the repositories I liked on github.
 ### August 29, 2016
 - [dschep/ntfy: A utility for sending notifications, on demand and when commands finish.](https://github.com/dschep/ntfy) 
 - [thejameskyle/itsy-bitsy-data-structures: All the things you didn't know you wanted to know about data structures](https://github.com/thejameskyle/itsy-bitsy-data-structures) 
+
+### August 30, 2016
+- [New Tab](https://getsentry.com/) 
