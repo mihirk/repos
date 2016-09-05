@@ -31,3 +31,6 @@ This repository contains the repositories I liked on github.
 
 ### August 30, 2016
 - [New Tab](https://getsentry.com/) 
+
+### September 5, 2016
+- [heynickc/awesome-ddd: A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources](https://github.com/heynickc/awesome-ddd) 
