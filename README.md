@@ -34,3 +34,6 @@ This repository contains the repositories I liked on github.
 
 ### September 5, 2016
 - [heynickc/awesome-ddd: A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources](https://github.com/heynickc/awesome-ddd) 
+
+### September 19, 2016
+- [Android : Is there any free PDF library for Android - Stack Overflow](http://stackoverflow.com/questions/3530780/android-is-there-any-free-pdf-library-for-android) 
