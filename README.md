@@ -44,3 +44,6 @@ This repository contains the repositories I liked on github.
 
 ### October 4, 2016
 - [Gravitational Teleport](http://gravitational.com/teleport/) 
+
+### October 5, 2016
+- [jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.](https://github.com/jwasham/google-interview-university) 
