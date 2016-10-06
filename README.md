@@ -47,3 +47,6 @@ This repository contains the repositories I liked on github.
 
 ### October 5, 2016
 - [jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.](https://github.com/jwasham/google-interview-university) 
+
+### October 6, 2016
+- [Building Your Own React Clone in Five Easy Steps](http://blog.javascripting.com/2016/10/05/building-your-own-react-clone-in-five-easy-steps/) 
