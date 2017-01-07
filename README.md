@@ -59,3 +59,6 @@ This repository contains the repositories I liked on github.
 
 ### November 29, 2016
 - [https://mail.google.com/mail/u/0/#inbox](https://mail.google.com/mail/u/0/#inbox) 
+
+### January 8, 2017
+- [2. My First Program - School of Haskell | School of Haskell](https://www.schoolofhaskell.com/school/starting-with-haskell/basics-of-haskell/2-my-first-program) 
